@@ -1,2 +1,2 @@
 # Tugas_DL
-Tugas deep learning 
+Tugas ke-2 deep learning 
